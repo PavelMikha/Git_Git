@@ -1,2 +1,3 @@
 a = input()
-print(a)
+n = a * 10
+print(n)
