@@ -5,4 +5,7 @@ for i in range len(n):
     if len(a) > 100:
         print('Al')
     else:
-        print('vvvv')
+        print('None')
+        print(a)
+print('hello')
+print(n)
