@@ -5,4 +5,4 @@ for i in range len(n):
     if len(a) > 100:
         print('Al')
     else:
-        print('Fu')
+        print('vvvv')
