@@ -6,6 +6,5 @@ for i in range len(n):
         print('Al')
     else:
         print('None')
-        print(a)
 print('hello')
-print(n)
+
